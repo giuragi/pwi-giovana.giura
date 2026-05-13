@@ -2,19 +2,19 @@ echo OFF
 
 echo --- Retirando Usuario GitHUB ----
 
-git config --global --unset-all user.mail
+git config --global --unset-all user.email
 git config --global --unset-all user.name
 
 echo --- Configurando Usuario GitHUB ----
 
-git config --global user.name "Felipe"
-git config --global user.email lipe.almagrok@gmail.com
+git config --global user.name "Aiko"
+git config --global user.email giovanadigiuradosstos@gmail.com
 echo --- Mostrando a configuração atual do Github no computador
 git config --list
 
 echo - download da pasta da Aula - PW
 
-echo git clone   https://github.com/FelipeKvint/pwi-felipe.kvint2026.git
+echo git clone   https://github.com/giuragi/pwi-giovana.giura.git
 echo --- Fim ---
 echo --- Grazi Linda  Saudades ---
 
